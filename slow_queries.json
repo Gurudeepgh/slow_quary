@@ -1,0 +1,8 @@
+[
+    {
+        "query": "SELECT `SLEEP` (?) LIMIT ?, ...",
+        "execution_time_ms": "3996.23",
+        "calls": 2,
+        "timestamp": "2025-02-22 13:42:50"
+    }
+]

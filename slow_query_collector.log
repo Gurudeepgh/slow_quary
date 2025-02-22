@@ -1,0 +1,14 @@
+2025-02-21 01:19:27,401 - ERROR - Database connection error: (1045, "Access denied for user 'your_user'@'localhost' (using password: YES)")
+2025-02-21 01:21:17,419 - ERROR - Database connection error: (1045, "Access denied for user 'your_user'@'localhost' (using password: YES)")
+2025-02-21 01:22:58,322 - ERROR - Database connection error: (1045, "Access denied for user 'your_user'@'localhost' (using password: YES)")
+2025-02-21 01:25:44,258 - ERROR - Database connection error: (1045, "Access denied for user 'gurudeep.halappa'@'localhost' (using password: NO)")
+2025-02-21 01:26:36,137 - ERROR - Database connection error: (1045, "Access denied for user 'gurudeep.halappa'@'localhost' (using password: NO)")
+2025-02-21 01:31:29,169 - ERROR - Database connection error: port should be of type int
+2025-02-21 01:32:48,946 - INFO - Collected 4 slow queries.
+2025-02-21 01:36:30,785 - INFO - Collected 4 slow queries.
+2025-02-21 01:41:04,623 - ERROR - Error executing slow query collection: Connection.cursor() got an unexpected keyword argument 'dictionary'
+2025-02-21 01:41:04,630 - INFO - Collected 0 slow queries.
+2025-02-21 01:41:57,970 - ERROR - Error executing slow query collection: Connection.cursor() got an unexpected keyword argument 'dictionary'
+2025-02-21 01:41:58,001 - INFO - Collected 0 slow queries.
+2025-02-21 01:43:12,479 - ERROR - Error executing slow query collection: (1054, "Unknown column 'query' in 'field list'")
+2025-02-21 01:43:12,495 - INFO - Collected 0 slow queries.
